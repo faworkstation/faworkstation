@@ -1,9 +1,8 @@
-# 👋 Olá, eu sou Felipe Antoniati!
+# 👋 Olá, eu sou Felipe Antoniati
 
-Bem-vindo ao meu perfil! Sou um **Desenvolvedor Web** apaixonado por desenvolver soluções tecnologicas que combinam elegância e funcionalidade.
+Bem-vindo ao meu perfil. Sou um **Desenvolvedor Web** apaixonado por desenvolver soluções tecnologicas que combinam elegância e funcionalidade.
 Meu foco principal está em **JavaScript**, e tenho experiência sólida em **HTML**, **CSS**, **React.js** e **Next.js**.
 
-- 
 ## 🚀 Por Que Escolher Trabalhar Comigo?
 
 - **Expertise Técnica:** Profundo conhecimento em JavaScript (ES6+), React.js e Next.js, permitindo a construção de aplicações web eficientes e modernas.
